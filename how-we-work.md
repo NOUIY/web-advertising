@@ -1,10 +1,14 @@
-# Improving Web Advertising BG
+# Improving Web Advertising CG
+
+Note: This group used to be a Business Group but became a Community Group in March 2025.
+
+
 ## Overview
-The Improving Web Advertising Business Group supports privacy-preserving advertising and measurement on the web. We host ecoystem-wide participation, including individual users, browsers, publishers, advertisers, and advertising technology providers. The group has been collecting use cases, success criteria, and proposals. 
+The Improving Web Advertising Community Group supports privacy-preserving advertising and measurement on the web. We host ecoystem-wide participation, including individual users, browsers, publishers, advertisers, and advertising technology providers. The group has been collecting use cases, success criteria, and proposals. 
 
 ## How we work
-### Business Group
-The Business Group is open to anyone, on the payment of an organizational [participation fee](http://www.w3.org/community/about/fees/) or W3C Membership. 
+### Community Group
+The Community Group is open to anyone, on the payment of an organizational [participation fee](http://www.w3.org/community/about/fees/) or W3C Membership. 
 
 
 ## Documents
@@ -15,7 +19,7 @@ Group participants have created a number of documents in the [web-advertising gi
 Just as formal Recommendation-track documents in W3C have a "Status of
 this document" section near the top, describing who produced them and
 their maturity level[1](https://www.w3.org/2019/Process-20190301/#general-requirements), I suggest that we do the same for drafts in the
-Business Group. In many cases, the status will be "Unofficial Draft" --
+Community Group. In many cases, the status will be "Unofficial Draft" --
 something an individual or group of individuals has produced for
 discussion. An Unofficial Draft doesn't need to reflect consensus, and
 should make clear that it doesn't speak for the group or have W3C
@@ -25,11 +29,11 @@ support, and it can be useful to others to see that.
 For example:
 ### Status of this document 
     This document is a draft for discussion in the Improving Web Advertising
-    Business Group. It has no official standing of any kind and does not
+    Community Group. It has no official standing of any kind and does not
     represent the support or consensus of any standards organization.
 
-If we want to develop more formal documents, Business Group Drafts or
-Reports, or to describe "Business Group support" for a document, then we
+If we want to develop more formal documents, Community Group Drafts or
+Reports, or to describe "Community Group support" for a document, then we
 would need to gather group consensus on texts.
 
 ## Communications
@@ -83,7 +87,7 @@ Open to W3C Members, IEs, and BG Participants.
 community-managed groups. Can manage incubations with Contributor License Agreement. 
 Open to all.
     
-#### The Web Advertising BG might send work to
+#### The Web Advertising CG might send work to
 * Specification: [WebAppSec WG](https://www.w3.org/2011/webappsec/), Potential new Working Group, e.g. “Private Ads WG”
 * Incubation: [Web Platform Incubator Community Group (WICG)](https://wicg.io/), [Privacy Community Group](https://privacycg.github.io/)
 * External liaisons: WHATWG, IETF, IAB Tech Lab
